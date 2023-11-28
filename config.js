@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480"], 
+["584264847273", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["584125418042"], 
 ["5492266466080"], 
 ["593968585383"], 
 ["5492266613038"],
@@ -23,8 +23,8 @@ global.owner = [
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
-global.confirmCode = ""
+global.botNumberCode = "584125418042" //Ejemplo: +59309090909
+global.confirmCode = "29067444"
 
 global.mods = []
 global.prems = ["528451003894"]
